@@ -4,6 +4,6 @@
 代码在整理中......
 随后上传
 
-数据来自于USPTO PatentView (https://patentsview.org/home) (https://patentsview.org/download/data-download-tables)
+数据来自于USPTO PatentView [主页](https://patentsview.org/home) [下载界面](https://patentsview.org/download/data-download-tables)
 
 邮箱 323107010199@njust.edu.cn
