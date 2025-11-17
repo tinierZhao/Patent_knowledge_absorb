@@ -6,7 +6,7 @@
 
 数据来自于USPTO PatentView [主页](https://patentsview.org/home) [下载界面](https://patentsview.org/download/data-download-tables)
 
-语义嵌入模型为 [PatentSBERTa](https://huggingface.co/AI-Growth-Lab/PatentSBERTa)  ,感谢Bekamiri等人insight的工作
+语义嵌入模型为 [PatentSBERTa](https://huggingface.co/AI-Growth-Lab/PatentSBERTa)
 
 邮箱 323107010199@njust.edu.cn
 
