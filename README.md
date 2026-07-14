@@ -6,6 +6,7 @@ This repository contains the code and documentation for the study **"Highly Cite
 
 The study examines whether focal patents that build on highly cited prior patents achieve stronger subsequent diffusion, and whether this relationship depends on the disruptiveness of the cited prior patent. It combines patent-citation data with text-based semantic similarity measures to distinguish recognized, consolidating knowledge sources from recognized but disruptive ones.
 <img width="832" height="383" alt="Figure 1. Research framework" src="https://github.com/user-attachments/assets/7512d089-8686-48f5-8a5c-f691195d9744" />
+<p align="center"><em>Figure 1. Research framework.</em></p>
 
 
 ## Data and study design
