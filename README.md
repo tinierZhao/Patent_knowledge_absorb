@@ -11,7 +11,7 @@ The study examines whether focal patents that build on highly cited prior patent
 
 ## Data and study design
 
-The analysis uses **7,955,822 USPTO utility patents** granted between **1980 and 2024**.
+The analysis uses **4,016,653 [USPTO utility patents](https://www.uspto.gov/ip-policy/economic-research/patentsview#data)** granted between **1980 and 2024**.
 
 - **Focal patents:** patents whose subsequent diffusion is assessed.
 - **Closest cited prior patent:** for each focal patent, the cited patent with the highest cosine similarity based on PatentSBERTa embeddings of patent titles and abstracts.
